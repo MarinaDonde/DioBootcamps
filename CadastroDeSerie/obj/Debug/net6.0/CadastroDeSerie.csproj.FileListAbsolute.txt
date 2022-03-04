@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\obj\Debug\net6.0\CadastroDeSerie.csproj.AssemblyReference.cache
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\obj\Debug\net6.0\CadastroDeSerie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\obj\Debug\net6.0\CadastroDeSerie.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\obj\Debug\net6.0\CadastroDeSerie.AssemblyInfo.cs
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\obj\Debug\net6.0\CadastroDeSerie.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\bin\Debug\net6.0\CadastroDeSerie.exe
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\bin\Debug\net6.0\CadastroDeSerie.deps.json
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\bin\Debug\net6.0\CadastroDeSerie.runtimeconfig.json
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\bin\Debug\net6.0\CadastroDeSerie.dll
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\bin\Debug\net6.0\ref\CadastroDeSerie.dll
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\bin\Debug\net6.0\CadastroDeSerie.pdb
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\obj\Debug\net6.0\CadastroDeSerie.dll
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\obj\Debug\net6.0\ref\CadastroDeSerie.dll
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\obj\Debug\net6.0\CadastroDeSerie.pdb
+C:\Users\Marina\Desktop\MyThings\Dio\GFT-.NET\CadastroDeSerie\obj\Debug\net6.0\CadastroDeSerie.genruntimeconfig.cache
