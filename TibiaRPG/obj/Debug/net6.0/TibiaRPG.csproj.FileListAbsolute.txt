@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\bin\Debug\net6.0\TibiaRPG.exe
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\bin\Debug\net6.0\TibiaRPG.deps.json
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\bin\Debug\net6.0\TibiaRPG.runtimeconfig.json
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\bin\Debug\net6.0\TibiaRPG.dll
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\bin\Debug\net6.0\ref\TibiaRPG.dll
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\bin\Debug\net6.0\TibiaRPG.pdb
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\obj\Debug\net6.0\TibiaRPG.csproj.AssemblyReference.cache
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\obj\Debug\net6.0\TibiaRPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\obj\Debug\net6.0\TibiaRPG.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\obj\Debug\net6.0\TibiaRPG.AssemblyInfo.cs
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\obj\Debug\net6.0\TibiaRPG.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\obj\Debug\net6.0\TibiaRPG.dll
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\obj\Debug\net6.0\ref\TibiaRPG.dll
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\obj\Debug\net6.0\TibiaRPG.pdb
+C:\Users\Marina\Desktop\MyThings\Dio\ProjetosGitHub\TibiaRPG\obj\Debug\net6.0\TibiaRPG.genruntimeconfig.cache
